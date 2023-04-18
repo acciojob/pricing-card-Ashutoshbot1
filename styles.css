@@ -1,1 +1,44 @@
 /*  your css code here. If applicable */
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+}
+
+#pricing-card{
+
+	margin:auto;
+	border:2px solid green;
+	width:60%;
+	background-color:#efefef;
+}
+
+#image img{
+	width:80%;
+	margin:0% 10%;
+	margin-top:10%;
+}
+
+#image{
+	margin:2% auto;
+}
+
+#header{
+	text-align:center
+}
+
+#description{
+	text-align:center;
+	padding: 2% 16%;
+}
+
+button{
+	
+	border:2px solid;
+	background-color:pink;
+	color:white;
+	border-radius:7px;
+	padding:10px;
+	
+	
+}
